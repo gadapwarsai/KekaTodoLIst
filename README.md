@@ -1,4 +1,4 @@
-<h1>ToDoListApp</h1>
+<h1>KekaToDoListApp</h1>
 
 <p>
   <a href="https://opensource.org/licenses/gadapwarsaiprasad"><img alt="License" src="https://img.shields.io/badge/License-GadapwarSaiprasad-blue.svg"/></a>
@@ -71,7 +71,7 @@ task clean(type: Delete) {
 
 
 ## Steps in order
- some of the key configurations in your file:
+ some of the key configurations in this file:
 
 1.org.gradle.daemon = true: Enables the Gradle Daemon, a background process that can speed up the build process by keeping a JVM running.
 

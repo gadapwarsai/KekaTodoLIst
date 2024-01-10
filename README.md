@@ -12,13 +12,15 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
 
 # Screenshots:
 <img src="/screenshots/logo luncher.png" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
-<img src="/screenshots/1.png" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
-<img src="/screenshots/2.png" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
+<img src="/screenshots/1.jpg" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
+<img src="/screenshots/2.jpg" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
 <img src="/screenshots/3 Day mode.jpg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/>
 <img src="/screenshots/3 Dark mode.jpg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
 <img src="/screenshots/4.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
-<img src="/screenshots/5.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
-<img src="/screenshots/6.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/5.jpg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
+<img src="/screenshots/6.jpg" height="400px"/> <img src="/screenshots/night4.png" height="400px"/>
+
+
 https://drive.google.com/drive/folders/1wL7O2P0zGjlRFYsc_DHJI1iKABCGEvcQ?usp=sharing
 ## Tech stack & Open-source libraries
 

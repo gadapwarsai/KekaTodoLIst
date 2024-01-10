@@ -11,6 +11,10 @@ ToDoList App demonstrates modern Android development with Hilt, Coroutines, Live
 </p>
 
 # Screenshots:
+<img src="/screenshots/logo luncher.png" height="400px"/> <img src="/screenshots/night1.png" height="400px"/> 
+<img src="/screenshots/day2.png" height="400px"/> <img src="/screenshots/night2.png" height="400px"/> 
+<img src="/screenshots/day3.png" height="400px"/> <img src="/screenshots/night3.png" height="400px"/>
+<img src="/screenshots/day4.png" height="400px"/> <img src="/screenshots/night4.png" height="400px"/> 
 https://drive.google.com/drive/folders/1wL7O2P0zGjlRFYsc_DHJI1iKABCGEvcQ?usp=sharing
 ## Tech stack & Open-source libraries
 
